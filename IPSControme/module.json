@@ -1,15 +1,15 @@
 {
 	"id": "{4CC29247-0EC4-4F5A-8C62-77E5CF1F3E8E}",
-	"name": „IPSControme“,
+	"name": "IPSControme“,
 	"type": 3,
-	"vendor": „“,
+	"vendor": "Controme“,
 	"aliases": 
 	[
-		„FBH_Gateway“,
-		„MiniServer“
+		"FBH_Gateway“,
+		"MiniServer“
 	],
 	"parentRequirements": [],
 	"childRequirements": [],
 	"implemented": [],
-	"prefix": „CON“
+	"prefix": "CON“
 }

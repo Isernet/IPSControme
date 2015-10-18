@@ -8,7 +8,7 @@
         * CON_MeineErsteEigeneFunktion($id);
         *
         */
-        public function MeineErsteEigeneFunktion() {
+        public function TestID() {
             echo $this->InstanceID;
         }
     }
