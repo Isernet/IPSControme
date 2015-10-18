@@ -1,5 +1,5 @@
 <?
-class E2 extends IPSModule {
+class Controme extends IPSModule {
 
   public function Create() {
     parent::Create();
