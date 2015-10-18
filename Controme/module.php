@@ -1,5 +1,5 @@
 <?
-class Controme extends IPSModule {
+class FBH_Gateway extends IPSModule {
 
   public function Create() {
     parent::Create();
