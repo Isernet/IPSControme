@@ -5,13 +5,7 @@
         { "type": "ValidationTextBox", "name": "Password", "caption": "Password" },
         { "type": "NumberSpinner", "name": "APIID", "caption": "APIID" },
         { "type": "ValidationTextBox", "name": "Sender", "caption": "Sender" }
-        { "type": "Select", "name": "SMSType", "caption": "Type","options":
-        [
-                { "label": "SMS", "value": 0 },
-                { "label": "Kombi-SMS", "value": 1 },
-                { "label": "MMS", "value": 2 }
-        ]
-    ],
+            ],
     "actions":
     [
         { "type": "ValidationTextBox", "name": "Number", "caption": "Number" },
