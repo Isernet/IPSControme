@@ -3,7 +3,7 @@
     [
         { "type": "ValidationTextBox", "name": "Username", "caption": "Username" },
         { "type": "ValidationTextBox", "name": "Password", "caption": "Password" },
-        { "type": "ValidationTextBox", "name": „MAC“, "caption": „MAC“ },        		
+        { "type": "ValidationTextBox", "name": "MAC", "caption": "MAC" },
     ],
     "actions":
     [
